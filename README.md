@@ -50,4 +50,8 @@ One of my key projects is a **RAG-based AI Teaching Assistant**, designed to pro
 🔗 **Live Portfolio:**  
 https://portfolio-gygynlwyt-divyanshu8.vercel.app
 
+## 📄 Resume
+
+📥 [Download My Resume](./Divyanshu_Raghav_Resume.pdf)
+
 ⭐ Thanks for visiting my profile!
