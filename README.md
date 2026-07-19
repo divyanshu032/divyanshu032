@@ -41,14 +41,14 @@ One of my key projects is a **RAG-based AI Teaching Assistant**, designed to pro
 
 - 💻 **GitHub:** https://github.com/divyanshu032
 
-- 🌐 **Portfolio:** https://portfolio-gygynlwyt-divyanshu8.vercel.app
+- 🌐 **Portfolio:** https://portfolio-tl24.vercel.app
 
 - 📷 **Instagram:** https://www.instagram.com/DivyanshuAgarwal26
 
 - ## 🌐 Portfolio
 
 🔗 **Live Portfolio:**  
-https://portfolio-gygynlwyt-divyanshu8.vercel.app
+https://portfolio-tl24.vercel.app
 
 ## 📄 Resume
 
