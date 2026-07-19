@@ -52,6 +52,6 @@ https://portfolio-gygynlwyt-divyanshu8.vercel.app
 
 ## 📄 Resume
 
-📥 [Download My Resume](./Divyanshu_Raghav_Resume.pdf)
+📄 Resume: [View My Resume](https://github.com/divyanshu032/divyanshu032/blob/main/DIVYANSHU_AGARWAL_RESUME_UPDATED.pdf)
 
 ⭐ Thanks for visiting my profile!
