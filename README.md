@@ -45,7 +45,7 @@ One of my key projects is a **RAG-based AI Teaching Assistant**, designed to pro
 
 - 🌐 **Portfolio:** https://your-portfolio.vercel.app/
 
-- 📷 **Instagram:** https://www.instagram.com/DivyanshuAgarwal
+- 📷 **Instagram:** https://www.instagram.com/DivyanshuAgarwal26
 
 - ## 🌐 Portfolio
 
