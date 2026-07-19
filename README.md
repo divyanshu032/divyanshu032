@@ -41,9 +41,7 @@ One of my key projects is a **RAG-based AI Teaching Assistant**, designed to pro
 
 - 💻 **GitHub:** https://github.com/divyanshu032
 
-- 💡 **LeetCode:** https://leetcode.com/u/your-username/
-
-- 🌐 **Portfolio:** https://your-portfolio.vercel.app/
+- 🌐 **Portfolio:** https://portfolio-gygynlwyt-divyanshu8.vercel.app
 
 - 📷 **Instagram:** https://www.instagram.com/DivyanshuAgarwal26
 
